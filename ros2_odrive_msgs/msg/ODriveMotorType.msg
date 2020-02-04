@@ -1,0 +1,6 @@
+uint8 MOTOR_TYPE_HIGH_CURRENT = 0
+# uint8 MOTOR_TYPE_LOW_CURRENT = 1
+uint8 MOTOR_TYPE_GIMBAL = 2
+
+uint8 id
+string label
